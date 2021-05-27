@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511284942576-quv2uhckg9151cfp5s7bquvrsii7sg8l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511284942576-quv2uhckg9151cfp5s7bquvrsii7sg8l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLeaMQKariMQm_YI0po2C-6Td2ODDHYkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511284942576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tunetuesday</string>
+	<key>PROJECT_ID</key>
+	<string>tune-tuesday</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tune-tuesday.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511284942576:ios:b36cefd33b2b8a38335435</string>
+	<key>DATABASE_URL</key>
+	<string>https://tune-tuesday-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

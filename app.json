@@ -1,0 +1,21 @@
+{
+  "name": "Tune_Tuesday",
+  "displayName": "Tune_Tuesday",
+  "expo": {
+    "name": "Tune Tuesday",
+    "icon": "./src/appIcon.png",
+    "slug": "Tune_Tuesday",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.tunetuesday",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.tunetuesday",
+      "versionCode": 1
+    }
+  }
+}

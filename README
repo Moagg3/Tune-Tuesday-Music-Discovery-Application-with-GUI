@@ -1,0 +1,33 @@
+README
+
+Release Notes:
+Version 1.0 Features
+Added full game functionality
+Added invite functionality
+Added point allocations
+Added session history and round summary 
+
+
+Future Updates:
+Notifications for reminders
+Judging/Round timers
+No game settings/no game ending conditions
+User Profiles and User Settings
+Loading on screens doesn't always work fully and correctly the first time
+IOS further development required. Certain components don't look the same, and an Apple Developer account is needed for full app verification and building.
+
+
+
+Installation:
+1. Install Node.js
+2. Install Expo CLI into the project directory (npm install -g expo-cli)
+3. Install Yarn into the project directory (npm install -g yarn)
+4. Run expo install (no args) in the project directory
+5. Run expo start in the project directory to run the development server
+6. Can run Android Device Emulator if present on computer, otherwise can use your own phone with the Expo Go app
+
+Publish Android APK:
+1. expo build:android -t apk
+
+Other Build Versions:
+Both 'expo build:android' and 'expo build:ios' will generate app bundles ready to be uploaded to their respective app stores. However, IOS will require an Apple Developer account

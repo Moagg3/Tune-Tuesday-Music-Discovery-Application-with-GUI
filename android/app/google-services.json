@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511284942576",
+    "project_id": "tune-tuesday",
+    "storage_bucket": "tune-tuesday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511284942576:android:022abe3689f3dd1e335435",
+        "android_client_info": {
+          "package_name": "com.tunetuesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511284942576-5gtbos7icnc12mj3t54sl5qm5lsba99p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhL8pXBqPyPR4PeYcNysVEwS9gY72FfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511284942576-5gtbos7icnc12mj3t54sl5qm5lsba99p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
